@@ -1,5 +1,5 @@
 # wrangler.toml
-name = 'restless-paper-7bf1'
+name = 'ancient-brook-b0f7'
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
