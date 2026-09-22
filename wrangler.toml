@@ -1,5 +1,5 @@
 # wrangler.toml
-name = 'ancient-brook-b0f7'
+name = 'green-wave-962f'
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
